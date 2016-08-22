@@ -4,6 +4,7 @@
 3. [RabbitMQ之发布订阅](http://www.cnblogs.com/aheizi/p/5782469.html) 
 4. [RabbitMQ之路由(Routing)](http://www.cnblogs.com/aheizi/p/5785992.html)  
 5. [RabbitMQ之主题(Topic)](http://www.cnblogs.com/aheizi/p/5789444.html)
+6. [RabbitMQ之远程过程调用(RPC)](http://www.cnblogs.com/aheizi/p/5797703.html)
 
 RabbitMQ是一个由erlang开发的AMQP（Advanced Message Queue ）的开源实现。  
 
